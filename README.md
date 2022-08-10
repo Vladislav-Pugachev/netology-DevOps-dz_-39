@@ -1,6 +1,6 @@
 ### Знакомоство с SonarQube
 
-![sonar](./screen/sonar.png)
+![sonar](./sonar.png)
 
 ### Знакомство с Nexus
 - maven-metadata.xml
